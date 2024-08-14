@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     textarea.addEventListener('input', () => {
         const typed = textarea.value.length;
-        const remaining = 50 - typed;
+        const remaining = 500 - typed;
         typedCount.textContent = `${typed} characters typed`;
         remainingCount.textContent = `${remaining} characters remaining`;
     });

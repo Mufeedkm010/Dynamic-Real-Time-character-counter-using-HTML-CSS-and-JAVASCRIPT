@@ -20,7 +20,7 @@
 .title {
     font-size: 30px;
     margin-bottom: 20px;
-    text-align: start;
+    text-align:center;
 }
 
 textarea {
@@ -43,11 +43,11 @@ textarea {
 }
 
 #typedCount {
-    font-size: 18px;
+    font-size: 20px;
     color: #333;
 }
 
 #remainingCount {
-    font-size: 18px;
+    font-size: 20px;
     color: #333;
 }
