@@ -1,2 +1,3 @@
-![Real time character count](https://github.com/user-attachments/assets/7653399f-4010-4a5a-9e0d-eb6979bb931d)
+![Real Time Character Counter](https://github.com/user-attachments/assets/90f817ba-b904-49f9-9683-cba04969aad4)
+
 
